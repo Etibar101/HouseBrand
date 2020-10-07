@@ -1,0 +1,41 @@
+.main_soc_block{
+    width: 100%;
+    padding: 2% 0;
+    border-bottom: 2px solid silver;
+    border-top: 2px solid silver;
+    margin: 20px 0;
+    float:left;
+    background: image("src/assets/img/social.jpg") center;
+    height: 200px;
+}
+
+.main_soc_block_in{
+    text-align: center;
+    padding: 1%;
+    height: 100px;
+    background-color: #fafafa;
+    border: 1px solid silver;
+    border-radius: 7px;
+    width: 550px;
+}
+
+.main_soc_block_in button{
+    float: left;
+    padding: 5px 10px;
+    background-color: #f6b730;
+    border-radius: 6px;
+    color: #fafafa;
+    margin-left: 40%;
+    margin-top: 2%;
+    cursor: pointer;
+    border: 0;
+}
+
+.main_soc_block_in button:hover{background-color: #eadf07;}
+
+h3{
+    margin: 0;
+}
+p{
+    margin: 0;
+}

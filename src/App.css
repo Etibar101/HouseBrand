@@ -1,0 +1,21 @@
+.App {
+  /*grid-gap: 10px 10px;*/
+  width: 100%;
+  margin: 0 auto;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 1fr ;
+  grid-template-rows:60px 60px 1fr 60px;
+  grid-template-areas: "h h"
+                        "n n"
+                        "c c"
+                        "f f";
+}
+
+.app-wrapper-content {
+  grid-area: c;
+  min-height: 600px;
+  background-color: #F7F7F7FF;
+  /*border-radius: 10px;*/
+  /*border: 1px solid silver;*/
+}

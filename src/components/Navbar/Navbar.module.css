@@ -1,0 +1,28 @@
+.navbarBlock{
+    background-color: #F7F7F7FF;
+
+}
+
+.menuHrefs {
+    font-family: Comic Sans MS, sans-serif;
+    text-decoration: none;
+    grid-area: n;
+    padding: 5px 10px; /*menyulari bir birinen ayirmaq ucundur*/
+    border-radius: 5px;
+    margin-right: 5px;
+    color: #686565;
+}
+.menu{
+
+    margin-top: -40px;
+    color: #2a2929;
+    font-family: Comic Sans MS, sans-serif;
+    font-size: 1.7em;
+}
+hr{
+    width: 500px;
+    max-width: 100%; /*ekran 500px dan balaca olarsa 100% ekran olacaq*/
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+

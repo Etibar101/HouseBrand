@@ -1,0 +1,12 @@
+.wrapper{
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.articles {
+    float: left;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 10px;
+}

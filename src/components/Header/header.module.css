@@ -1,0 +1,36 @@
+.logo{
+    font-size: 2em;
+    font-family: Comic Sans MS, sans-serif;
+    color: silver;
+    text-decoration: none;
+
+}
+
+input[type=text].field:focus {border: 2px solid crimson;}
+
+.field{/* catmir mene*/
+    border-radius: 5px;
+    border: 2px solid silver;
+    padding: 5px;
+    margin-left: 20px;
+}
+
+.right{float: right;}
+
+.contact{
+    font-size: 1.5em;
+    font-family: Comic Sans MS, sans-serif;
+    margin-left: 20px;
+    text-decoration: none;
+    color: #ce7f7f;
+}
+
+.header {
+    grid-area: h;
+    background-color: #fff;
+    min-height: 50px; /* kontent boyukl olarsa avtomatik boyuyecek*/
+    border-bottom: 2px solid silver;
+    padding: 1%;
+    position: sticky;
+    top: 0;
+}

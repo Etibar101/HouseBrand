@@ -1,0 +1,52 @@
+form{
+    width: 60%;
+    margin-left: 20%;
+    float: left;
+
+}
+
+form label{
+    width: 100%;
+    margin-left: 20%;
+    float: left;
+}
+
+form input{
+    border-radius: 5px;
+    border: 2px solid #c1bfbf;
+    background-color: #fcfcfc;
+    padding: 5px;
+    margin-left: 20px;
+    float: left;
+    clear: both;
+    width: 40%;
+    margin-bottom: 10px;
+}
+
+form input:focus, form textarea:focus{border: 2px solid #f88d8d;}
+
+form textarea{
+    width: 60%;
+    float:left;
+    clear: both;
+    background-color: #fafafa;
+    border: 2px solid #c0c0c0;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1.7em;
+    margin-left: 2%;
+}
+
+.send{
+    width: 20%;
+    float: left;
+    padding: 5px;
+    background-color: #ed7b7b;
+    border-radius: 5px;
+    margin-top: 10px;
+    color: #fafafa;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.send:hover{background-color: #f65069;}

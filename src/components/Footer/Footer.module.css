@@ -1,0 +1,21 @@
+
+.footer img{
+    width: 20px;
+    float: left;
+    margin-right: 5px;
+}
+
+.footer{
+    grid-area: f;
+    border-top: 2px solid silver;
+    padding: 1%;
+    width: 98%;
+    background-color: #fff;
+    min-height: 50px;
+}
+
+.footer #page-wrap::after{height: 10px;}
+
+.right{
+    float: right;
+}

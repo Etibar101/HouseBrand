@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/HouseBrand/static/css/main.3ff7618b.chunk.css",
-    "main.js": "/HouseBrand/static/js/main.f98aa90e.chunk.js",
-    "main.js.map": "/HouseBrand/static/js/main.f98aa90e.chunk.js.map",
+    "main.css": "/HouseBrand/static/css/main.2b195995.chunk.css",
+    "main.js": "/HouseBrand/static/js/main.e8f2b79d.chunk.js",
+    "main.js.map": "/HouseBrand/static/js/main.e8f2b79d.chunk.js.map",
     "runtime-main.js": "/HouseBrand/static/js/runtime-main.7381e583.js",
     "runtime-main.js.map": "/HouseBrand/static/js/runtime-main.7381e583.js.map",
     "static/js/2.5bc85551.chunk.js": "/HouseBrand/static/js/2.5bc85551.chunk.js",
     "static/js/2.5bc85551.chunk.js.map": "/HouseBrand/static/js/2.5bc85551.chunk.js.map",
     "index.html": "/HouseBrand/index.html",
-    "precache-manifest.ca4007bdb0dd3485b09af857b5e60e6e.js": "/HouseBrand/precache-manifest.ca4007bdb0dd3485b09af857b5e60e6e.js",
+    "precache-manifest.d7e87dab786c8fa3338719c69ae60afd.js": "/HouseBrand/precache-manifest.d7e87dab786c8fa3338719c69ae60afd.js",
     "service-worker.js": "/HouseBrand/service-worker.js",
-    "static/css/main.3ff7618b.chunk.css.map": "/HouseBrand/static/css/main.3ff7618b.chunk.css.map",
+    "static/css/main.2b195995.chunk.css.map": "/HouseBrand/static/css/main.2b195995.chunk.css.map",
     "static/js/2.5bc85551.chunk.js.LICENSE.txt": "/HouseBrand/static/js/2.5bc85551.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7381e583.js",
     "static/js/2.5bc85551.chunk.js",
-    "static/css/main.3ff7618b.chunk.css",
-    "static/js/main.f98aa90e.chunk.js"
+    "static/css/main.2b195995.chunk.css",
+    "static/js/main.e8f2b79d.chunk.js"
   ]
 }

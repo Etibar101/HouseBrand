@@ -1,14 +1,13 @@
 .logo{
-    font-size: 2em;
+    font-size: 1.7em;
     font-family: Comic Sans MS, sans-serif;
     color: silver;
     text-decoration: none;
-
 }
 
 input[type=text].field:focus {border: 2px solid crimson;}
 
-.field{/* catmir mene*/
+.field{
     border-radius: 5px;
     border: 2px solid silver;
     padding: 5px;
@@ -18,7 +17,7 @@ input[type=text].field:focus {border: 2px solid crimson;}
 .right{float: right;}
 
 .contact{
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-family: Comic Sans MS, sans-serif;
     margin-left: 20px;
     text-decoration: none;
@@ -28,7 +27,7 @@ input[type=text].field:focus {border: 2px solid crimson;}
 .header {
     grid-area: h;
     background-color: #fff;
-    min-height: 50px; /* kontent boyukl olarsa avtomatik boyuyecek*/
+    min-height: 50px;
     border-bottom: 2px solid silver;
     padding: 1%;
     position: sticky;

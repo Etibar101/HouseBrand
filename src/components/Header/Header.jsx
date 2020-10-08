@@ -8,7 +8,7 @@ const Header = () => {
         <header className={s.header}>
             <span>
                 <span>
-                    <NavLink to={'/main'} title="Na glavnuyu" className={s.logo}>Test site</NavLink>
+                    <NavLink to={'/main'} title="Na glavnuyu" className={s.logo}>HouseBrand</NavLink>
                 </span>
                 <span>
                     <NavLink to={'/about'} title="Haqqimizda" className={s.contact}>About as</NavLink>
